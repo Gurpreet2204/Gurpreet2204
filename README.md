@@ -18,7 +18,6 @@ I'm a passionate **Fullstack Web Developer** specializing in the **MERN stack** 
 
 ### 📫 How to reach me:
 - **LinkedIn**:(https://linkedin.com/in/04gurpreet)
-- **twitter**:()
 - **Email**: gurs2806@gmail.com
 
 Feel free to check out my repositories and contribute if you find something interesting! 😄
