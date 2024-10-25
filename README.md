@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Gurpreet Singh 👋
 
-<!--
-**Gurpreet2204/Gurpreet2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Fullstack Web Developer** specializing in the **MERN stack** (MongoDB, Express, React, Node.js) and proficient in **PostgreSQL** and **Prisma**. I love building innovative digital solutions and seamless user experiences. 🚀
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools I Work With:
+- **Frontend**: React, Next.js, Tailwind CSS, Redux, Zustand, JavaScript, TypeScript
+- **Backend**: Node.js, Express.js, Cloudflare Workers
+- **Database**: PostgreSQL, MySQL, Prisma, MongoDB
+- **Others**: Vite, Appwrite,firebase, JWT, Zod, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Current Focus
+- Working on improving **node** and **Next.js** skills.
+  
+### 🎯 Goals
+- Continue building **fullstack web applications** that deliver exceptional user experiences.
+- Explore more into **serverless technologies** and **scalable backend solutions**.
+- Expand my expertise in **TypeScript** and **Redux**.
+
+### 📫 How to reach me:
+- **LinkedIn**:(https://linkedin.com/in/04gurpreet)
+- **twitter**:()
+- **Email**: gurs2806@gmail.com
+
+Feel free to check out my repositories and contribute if you find something interesting! 😄
