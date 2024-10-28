@@ -1,6 +1,6 @@
 # Hi, I'm Gurpreet Singh 👋
 
-I'm a passionate **Fullstack Web Developer** specializing in the **MERN stack** (MongoDB, Express, React, Node.js) and proficient in **PostgreSQL** and **Prisma**. I love building innovative digital solutions and seamless user experiences. 🚀
+I'm a passionate **Fullstack Web Developer** specializing in the **MERN stack** (MongoDB, Express, React, Node.js) and proficient in **PostgreSQL**,**Appwrite** and **Prisma**. I love building innovative digital solutions and seamless user experiences. 🚀
 
 ### 🔧 Technologies & Tools I Work With:
 - **Frontend**: React, Next.js, Tailwind CSS, Redux, Zustand, JavaScript, TypeScript
@@ -17,7 +17,7 @@ I'm a passionate **Fullstack Web Developer** specializing in the **MERN stack** 
 - Expand my expertise in **TypeScript** and **Redux**.
 
 ### 📫 How to reach me:
-- **LinkedIn**:(https://linkedin.com/in/04gurpreet)
+- **LinkedIn**: https://linkedin.com/in/04gurpreet
 - **Email**: gurs2806@gmail.com
 
 Feel free to check out my repositories and contribute if you find something interesting! 😄
